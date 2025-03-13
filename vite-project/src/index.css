@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+td {
+  border: 1px solid #000;
+  padding: 8px;
+}
+
+th {
+  border: 1px solid #000;
+  padding: 8px;
+}
